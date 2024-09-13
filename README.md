@@ -21,4 +21,4 @@ NetHunter kernel
 
 ## Download
 
-[Releases](https://github.com/Yttehs-HDX/kernel-umi-lineage/releases)
+[Releases](https://github.com/Yttehs-HDX/android_kernel_xiaomi_umi_nethunter/releases)
