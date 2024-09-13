@@ -12,7 +12,7 @@
 # +---------------------------------+
 
 # kernel
-DEFCONFIG="umi-stock_defconfig"
+DEFCONFIG="umi-miku_defconfig"
 O="out"
 ARCH="arm64"
 
