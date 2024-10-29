@@ -55,4 +55,14 @@ modules = 1
 slot_device = 0
 block = /dev/block/bootdevice/by-name/boot
 devicenames = umi,Mi10
+
+[cmi]
+author = "Shetty Yttehs"
+arch = arm64
+version = "${KERNEL_VERSION}"
+flasher = anykernel
+modules = 1
+slot_device = 0
+block = /dev/block/bootdevice/by-name/boot
+devicenames = cmi,Mi10Pro
 EOL
