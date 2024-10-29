@@ -1,12 +1,14 @@
 # Miku Kernel
 
-Based on [umi-development/android_kernel_xiaomi_sm8250](https://github.com/umi-development/android_kernel_xiaomi_sm8250)
+Based on [LineageOS/android_kernel_xiaomi_sm8250](https://github.com/LineageOS/android_kernel_xiaomi_sm8250)
 
 Compiler: [ZyCromerZ/Clang 20.0.0](https://github.com/ZyCromerZ/Clang)
 
 ## Device
 
 UMI (Xiaomi MI10) AOSP only
+
+CMI (Xiaomi MI10 Pro) AOSP only
 
 ## Features
 
