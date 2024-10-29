@@ -12,7 +12,7 @@
 # +---------------------------------+
 
 # kernel
-DEFCONFIG="cmi-stock_defconfig"
+DEFCONFIG="cmi-miku_defconfig"
 O="out"
 ARCH="arm64"
 
